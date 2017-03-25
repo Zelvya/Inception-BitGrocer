@@ -4,4 +4,4 @@ Inception Page for Bit Grocer
 
 # Main Use Case
 ![Main Use Case]
-(imgs/BITGrocer-MainUseCaseDiagram.png)
+(http://inception.bitgrocer.com/imgs/BITGrocer-MainUseCaseDiagram.png)
